@@ -2,6 +2,16 @@
 
 ## Accounting Software
 
+I have developed Accounting Software in Visual Basic 6 and Foxpro Database while I started my career in Software development ( Around 1997).
+
+At that time , I have published this code in public forum.
+
+As this is my intial coding, I can say it is a working code, but not efficient code following all best practices.
+
+It served the purpose at that time.
+
+Actually , I have developed another software based on this code base for Milk Societies near Thirunelveli, Tamilnadu, India ( 4 societies) , And I am very proud to say that the application developed by me is working for more than 15 years without any issues ( They have changed their Computer hardware multiple times with different Windows OS versions, but still they are running it for their day to day use , without any issues.)
+
 <img src="PIC20063251133104751.jpg">
 </div>
 
@@ -19,7 +29,7 @@ For Database access, I have used ADO in this application. Database can be any od
 
 You can use Foxpro, Microsoft Access,SQL Server or Oracle. Database Table structures are published. All path settings are clearly explained.
 
-If you want to have a clear understanding of source code and to get the answers for the following questions, you can view more screen shots with descriptions in my web site www.craceinfotech.com
+
 
 * How to create database files folder?
 
@@ -52,16 +62,7 @@ Simple Understanding of Accounting knowledge and windows familiarity
 All reports from Daybook, Ledger, Trial Balance,to Balance sheet.
 
 
-<span>             |<span>
----                |---
-**Submitted On**   |2006-03-18 07:45:22
-**By**             |[CraceInfotech](https://github.com/Planet-Source-Code/PSCIndex/blob/master/ByAuthor/craceinfotech.md)
-**Level**          |Advanced
-**User Rating**    |4.1 (37 globes from 9 users)
-**Compatibility**  |VB 6\.0
-**Category**       |[Complete Applications](https://github.com/Planet-Source-Code/PSCIndex/blob/master/ByCategory/complete-applications__1-27.md)
-**World**          |[Visual Basic](https://github.com/Planet-Source-Code/PSCIndex/blob/master/ByWorld/visual-basic.md)
-**Archive File**   |[Accounting1980933172006\.zip](https://github.com/Planet-Source-Code/craceinfotech-accounting-software__1-64692/archive/master.zip)
+
 
 
 
