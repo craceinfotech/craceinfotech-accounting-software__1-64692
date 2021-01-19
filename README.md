@@ -4,7 +4,9 @@
 
 I have developed Accounting Software in Visual Basic 6 and Foxpro Database while I started my career in Software development ( Around 1997).
 
-At that time , I have published this code in public forum.
+At that time , I have published this code in public forum. And it was uploaded to Github by others few months back.
+
+Now I have forked it here. ( I am forking my own code base)
 
 As this is my intial coding, I can say it is a working code, but not efficient code following all best practices.
 
