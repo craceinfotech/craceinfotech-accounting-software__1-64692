@@ -1,4 +1,4 @@
-﻿<div align="center">
+
 
 ## Accounting Software
 
@@ -12,7 +12,7 @@ It served the purpose at that time.
 
 Actually , I have developed another software based on this code base for Milk Societies near Thirunelveli, Tamilnadu, India ( 4 societies) , And I am very proud to say that the application developed by me is working for more than 15 years without any issues ( They have changed their Computer hardware multiple times with different Windows OS versions, but still they are running it for their day to day use , without any issues.)
 
-<img src="PIC20063251133104751.jpg">
+<div align="center"><img src="PIC20063251133104751.jpg">
 </div>
 
 ### Description
